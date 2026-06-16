@@ -49,9 +49,9 @@ async function main() {
         token_symbol: "42CR",
         description: "42 ecosystem credits: peer corrections, contributions, and governance.",
         token_uri:
-            "",
-        token_decimals: 9,
-        initial_supply: BigInt(42000000),
+            "https://raw.githubusercontent.com/ggn-thomas/tokenizer/master/assets/metadata.json",
+        token_decimals: 0,
+        initial_supply: 42_000_000.,
     });
 
     const associatedTokenAddress = await getAssociatedTokenAddress(
