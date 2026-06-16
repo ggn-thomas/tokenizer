@@ -8,8 +8,8 @@ import {
 import { transfer } from '@solana/spl-token';
 import { RPC_SOLANA, createKeypairFromFile } from "./helper";
 
-const MINT_KEYPAIR = new PublicKey("6Pk4egi7UH2shQhk24z2QoiZK6VBEAuVxYnyN1A6Vgde");
-const AMOUNT = BigInt(10000000);
+const MINT_KEYPAIR = new PublicKey("2v9yy7RbXR1ePr86okTAh5bRPEnX6tM78NJ3y58pBBnX");
+const AMOUNT = BigInt(1);
 
 async function main() {
     const connection = new Connection(RPC_SOLANA, "confirmed");

@@ -27,7 +27,7 @@ l'école et l'accès à des **privilèges (goodies)**.
 
 | Pool | % | Montant | Détenu par | Rôle |
 |------|---|---------|------------|------|
-| **Étudiants** | 50 % | 21 000 000 | programme / 42 Centrale | corrections, récompenses, airdrops d'arrivée |
+| **Étudiants** | 50 % | 21 000 000 | programme / étudiants | corrections, récompenses, airdrops d'arrivée |
 | **Liquidité** | 30 % | 12 600 000 | 42 Centrale | profondeur de marché, contrôlée par l'école |
 | **Vesting tiers** | 20 % | 8 400 000 | 42 Centrale → tiers | achat par contributeurs externes, financement de l'école |
 
