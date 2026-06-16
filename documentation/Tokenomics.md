@@ -2,10 +2,6 @@
 
 ## 1. Vue d'ensemble
 
-**42 Credits (42CR)** est le token utilitaire de l'écosystème 42. Il sert de monnaie
-interne pour les **corrections entre étudiants**, la **récompense des contributions** à
-l'école et l'accès à des **privilèges (goodies)**.
-
 - **Autorité (mint_authority)** : **42 Centrale** (entité de confiance qui gère l'émission).
 - **Modèle d'offre** : **supply fixe**, mintée **une seule fois** au lancement.
 - **Réseau** : Devnet
