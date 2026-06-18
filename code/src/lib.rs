@@ -44,7 +44,7 @@ fn process_instruction(
 
     // renvoie un index sur le premier compte
     //
-    let accounts_iter = &mut accounts.iter(); 
+    let accounts_iter = &mut accounts.iter(); //référence sur l'itérateur, mut = on peut modifier la référence de celui-ci
 
     let mint_account = next_account_info(accounts_iter)?;
     let mint_authority = next_account_info(accounts_iter)?;

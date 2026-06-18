@@ -47,11 +47,10 @@ async function main() {
     const instructionData = borshSerialize(CreateTokenArgsSchema, {
         token_title: "42 Credits",
         token_symbol: "42CR",
-        description: "42 ecosystem credits: peer corrections, contributions, and governance.",
         token_uri:
             "https://raw.githubusercontent.com/ggn-thomas/tokenizer/master/assets/metadata.json",
         token_decimals: 0,
-        initial_supply: 42_000_000.,
+        initial_supply: 42_000_000,
     });
 
     const associatedTokenAddress = await getAssociatedTokenAddress(

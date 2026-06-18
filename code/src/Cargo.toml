@@ -17,4 +17,4 @@ custom-panic = []
 default = []
 
 [lib]
-crate-type = ["cdylib", "lib"]
+crate-type = ["cdylib", "lib"] 

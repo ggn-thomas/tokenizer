@@ -53,7 +53,6 @@ posant un vrai problème d'alignement :
 
 **Prérequis :** `solana-cli`, `rustc`, `node`, `yarn`.
 
-> Mode d'emploi détaillé : voir le dossier [`documentation/`](./documentation).
 
 ```bash
 # 1. Compiler le programme

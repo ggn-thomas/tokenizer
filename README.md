@@ -48,8 +48,7 @@ sérialisation Borsh des données d'instruction). On garde ainsi une **maîtrise
 du flux d'exécution, là où Anchor masque ces mécanismes derrière des macros.
 
 ### Standard : SPL Token (et non Token-2022)
-Le token suit le standard **SPL Token** classique (`TOKEN_PROGRAM_ID`). Pour un token fongible simple, le standard SPL est
-**suffisant.
+Le token suit le standard **SPL Token** classique (`TOKEN_PROGRAM_ID`). Pour un token fongible simple, le standard SPL est suffisant.
 
 ### Métadonnées : Metaplex Token Metadata
 Le nom, le symbole et l'URI sont enregistrés via **Metaplex Token Metadata**, standard
