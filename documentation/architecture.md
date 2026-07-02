@@ -41,7 +41,7 @@ posant un vrai problème d'alignement :
   la compatibilité avec Metaplex. L'avertissement est donc un compromis assumé
   (`#[allow(deprecated)]`).
 
-**Stack retenue :**
+**Stack :**
 - `solana-program` 2.3
 - `spl-token` 8.0 / `spl-associated-token-account` 7.0 (feature `no-entrypoint`)
 - `mpl-token-metadata` 5.1.1

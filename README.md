@@ -26,19 +26,15 @@ Token fongible déployé sur la blockchain **Solana**, développé en **Rust nat
 interne pour les **corrections entre étudiants**, la **récompense des contributions** à
 l'école et l'accès à des **privilèges**.
 
-C'est un token **fongible** (chaque unité est interchangeable), créé from scratch
-via un programme Solana écrit en Rust natif, sans framework.
+C'est un token **fongible** (chaque unité est interchangeable).
 
 ---
 
 ## 2. Choix techniques
 
 ### Blockchain : Solana
-Solana a été retenue pour sa **grosse communauté de développeurs** et son **écosystème
-riche** (accès à de nombreuses ressources et au standard SPL mature), ainsi que pour
-ses **frais de transaction très faibles** et sa **rapidité** (temps de bloc ~400 ms).
-Ces atouts en font une plateforme idéale pour émettre et manipuler un token à moindre
-coût, y compris sur son réseau de test (Devnet).
+Solana a été choisie pour sa **grosse communauté de développeurs** et son **écosystème
+riche**, ainsi que pour ses **frais de transaction très faibles** et sa **rapidité** (temps de bloc ~400 ms).
 
 ### Langage : Rust natif (sans Anchor)
 Le programme est écrit en **Rust natif**, sans le framework Anchor. Choix
